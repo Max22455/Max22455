@@ -9,7 +9,7 @@
   •
   <b><a href="https://github.com/Max22455">Mis Proyectos</a></b>
   •
-  <b><a href="https://www.hackthebox.com/">Hack The Box</a></b>
+  <b><a href="https://app.hackthebox.com/users/3210091?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">Mi perfil de Hack The Box</a></b>
 </h4>
 
 ## 🚀 Sobre mí
