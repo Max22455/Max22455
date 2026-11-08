@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Abdullah Nhari! 👨‍💻</h1>
+<h1 align="center">¡Hola, soy Abdul BCN! 👨‍💻</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=T%C3%A9cnico+HelpDesk+N1;Administrador+de+Sistemas;Entusiasta+de+Ciberseguridad" alt="Typing SVG" />
