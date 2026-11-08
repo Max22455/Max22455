@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-¡Hola! Soy un técnico proactivo afincado en Igualada (Barcelona), buscando mi primera oportunidad como **Técnico HelpDesk N1**. Aunque mi formación oficial es en Instalaciones Eléctricas (lo que me aporta gran destreza en el diagnóstico de hardware y montaje de equipos), mi verdadera especialidad son los sistemas y las redes.
+¡Hola! Soy un técnico proactivo afincado en Barcelona, buscando mi primera oportunidad como **Técnico HelpDesk N1**. Aunque mi formación oficial es en Instalaciones Eléctricas (lo que me aporta gran destreza en el diagnóstico de hardware y montaje de equipos), mi verdadera especialidad son los sistemas y las redes.
 
 De forma práctica y autónoma, me dedico a crear y administrar laboratorios locales, automatizar procesos y resolver retos de ciberseguridad en entornos controlados.
 
